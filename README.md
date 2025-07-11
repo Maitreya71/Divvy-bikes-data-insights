@@ -22,7 +22,7 @@ This project showcases **Exploratory Data Analysis (EDA)** performed using Pytho
 
 ### 🧪 Exploratory Data Analysis (Python)
 
-Performed using the attached Jupyter Notebook: **`Analyzing_divvytripdata.ipynb`**
+Performed using the attached Jupyter Notebook: **`Analyzing_divvy_tripdata.ipynb`** and **trips-4yr.ipynb**
 
 #### ✅ Analysis Highlights:
 
@@ -47,7 +47,7 @@ An interactive dashboard was created using **Power BI Desktop** to complement th
 
 * **Rider Type Breakdown**: Trip counts, average durations, and bike preferences
 * **Time Trends**: Monthly and weekday usage patterns
-* **Station Analysis**: Popular start and end stations
+* **Station Analysis**: top Busy stations
 * **Trip Duration**: Distribution by rider type and weekday
 * **Interactive Filters**: By rider type, month, bike type
 
@@ -58,9 +58,10 @@ An interactive dashboard was created using **Power BI Desktop** to complement th
 ```
 divvy-bike-analysis/
 ├── data/
-│   └── 2023-divvy-tripdata.csv
+│   └── zip folder containing csv files            # source data of csv files in folder
 ├── notebooks/
-│   └── Analyzing_divvytripdata.ipynb
+│   └── Analyzing_divvy_tripdata.ipynb
+    └── trips-4yr.ipynb
 ├── dashboard/
 │   └── divvy_dashboard.pbix
 ├── images/
@@ -73,7 +74,7 @@ divvy-bike-analysis/
 ### 📌 How to Run
 
 1. Clone the repository
-2. Open and run `Analyzing_divvytripdata.ipynb` in Jupyter to view EDA
+2. Open and run `Analyzing_divvy_tripdata.ipynb` and `trips-4yr.ipynb` in Jupyter notbook to view EDA
 3. Open `divvy_dashboard.pbix` in Power BI Desktop to explore visual insights
 
 
