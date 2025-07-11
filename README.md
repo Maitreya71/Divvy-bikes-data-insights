@@ -51,7 +51,6 @@ An interactive dashboard was created using **Power BI Desktop** to complement th
 * **Trip Duration**: Distribution by rider type and weekday
 * **Interactive Filters**: By rider type, month, bike type
 
----
 
 ### 📁 Repository Structure
 
