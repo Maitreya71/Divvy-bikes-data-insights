@@ -64,8 +64,6 @@ divvy-bike-analysis/
     └── trips-4yr.ipynb
 ├── dashboard/
 │   └── divvy_dashboard.pbix
-├── images/
-│   └── dashboard_screenshot.png
 ├── README.md
 ```
 
