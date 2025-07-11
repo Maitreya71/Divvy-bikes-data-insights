@@ -8,7 +8,7 @@ This project showcases **Exploratory Data Analysis (EDA)** performed using Pytho
 
 * **Source**: divvy bike data present in repository
 * **Format**: CSV
-* **Timeframe**: four full calendar years
+* **Timeframe**: four full calendar years from 2018-2021
 * **Key Fields**:
 
   * `ride_id`, `rideable_type`
