@@ -6,7 +6,7 @@ This project showcases **Exploratory Data Analysis (EDA)** performed using Pytho
 
 ### 📂 Dataset Description
 
-* **Source**: divvy bike data present in repository
+* **Source**: divvy bike data in the link - (https://drive.google.com/drive/folders/1VA5Xf4QMeiPwQhQ7a9-tfw6PD5eVsBFw?usp=drive_link)
 * **Format**: CSV
 * **Timeframe**: four full calendar years from 2018-2021
 * **Key Fields**:
