@@ -72,7 +72,7 @@ divvy-bike-analysis/
 
 1. Clone the repository
 2. Open and run `Analyzing_divvy_tripdata.ipynb` and `trips-4yr.ipynb` in Jupyter notbook to view EDA
-3. Open `divvy_dashboard.pbix` in Power BI Desktop to explore visual insights
+3. Open `divvy_dashboard.pdf` in adobe acrobat to explore visual insights
 
 
 ### 🧠 Key Insights
