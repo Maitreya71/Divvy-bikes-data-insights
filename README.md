@@ -18,7 +18,7 @@ This project showcases **Exploratory Data Analysis (EDA)** performed using Pytho
   * Time features: day of week, month, hour
   * Trip duration (calculated)
 
----
+
 
 ### 🧪 Exploratory Data Analysis (Python)
 
@@ -37,7 +37,7 @@ Performed using the attached Jupyter Notebook: **`Analyzing_divvytripdata.ipynb`
   * **Monthly and weekly usage** trends
 * Visualizations created using **Seaborn** and **Matplotlib**
 
----
+
 
 ### 📊 Power BI Dashboard
 
@@ -68,7 +68,7 @@ divvy-bike-analysis/
 ├── README.md
 ```
 
----
+
 
 ### 📌 How to Run
 
@@ -76,7 +76,6 @@ divvy-bike-analysis/
 2. Open and run `Analyzing_divvytripdata.ipynb` in Jupyter to view EDA
 3. Open `divvy_dashboard.pbix` in Power BI Desktop to explore visual insights
 
----
 
 ### 🧠 Key Insights
 
@@ -85,7 +84,6 @@ divvy-bike-analysis/
 * Summer months show peak usage, especially among casual users
 * Electric bikes are increasingly popular among casual riders
 
----
 
 ### 🚀 Future Work
 
